@@ -3,7 +3,7 @@
 A simple Command-Line Interface (CLI) tool to manage tasks efficiently. You can add, list, update, mark as done or in progress, and delete tasks. Tasks are stored persistently in a `tasks.json` file.
 
 ---
-Use this repository to add in your locals : git clone  https://github.com/udiksha-sangelia/Task_Tracker.git
+Use this repository to add in your locals : git clone  https://github.com/udiksha-sangelia/Task_Tracker
 
 
 ## Features
