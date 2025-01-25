@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Learn Node.js",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "description": "Build a CLI task tracker",
+    "status": "done"
+  },
+  {
+    "id": 3,
+    "description": "Build React Skills",
+    "status": "in progress"
+  }
+]
